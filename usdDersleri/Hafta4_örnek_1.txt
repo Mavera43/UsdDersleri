@@ -1,0 +1,11 @@
+ //bir sayının 0'dan küçük, büyük yada eşit olduğunu bulan
+    // if else if yapısını kodlayın
+    $sayı = 99;
+
+    if( $sayı > 0)
+        echo "sayı 0'dan büyük";
+    else if($sayı == 0)
+        echo "sayı 0'a eşit";
+    else 
+        echo "sayı 0'dan küçüktür";
+        
