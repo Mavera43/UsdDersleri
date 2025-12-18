@@ -29,12 +29,7 @@
         <br>
         <input type="submit" name="btnHesapla" value="Hesapla">
     </form>
-
     <?php 
-  
-
-
-  
     ?>       
     </div>
     <div class="card-footer bg-info  "></div>
