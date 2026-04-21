@@ -1,0 +1,13 @@
+<?php
+$urunler=[
+    ["id"=>1,"urun_adi"=>"Laptop","fiyat"=>5000,"stok"=>10],
+    ["id"=>2,"urun_adi"=>"Telefon","fiyat"=>3000,"stok"=>5],
+    ["id"=>3,"urun_adi"=>"Tablet","fiyat"=>2000,"stok"=>8],
+    ["id"=>4,"urun_adi"=>"Kulaklık","fiyat"=>500,"stok"=>15],
+    ["id"=>5,"urun_adi"=>"Monitör","fiyat"=>1500,"stok"=>7],
+    ["id"=>6,"urun_adi"=>"Klavye","fiyat"=>200,"stok"=>20],
+    ["id"=>7,"urun_adi"=>"Mouse","fiyat"=>100,"stok"=>25],
+    ["id"=>8,"urun_adi"=>"Yazıcı","fiyat"=>800,"stok"=>4],
+    ["id"=>9,"urun_adi"=>"Hoparlör","fiyat"=>300,"stok"=>12],
+    ["id"=>10,"urun_adi"=>"Webcam","fiyat"=>400,"stok"=>6]
+];
